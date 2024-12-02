@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 82: expected simple expression
+    play music "535776__breviceps__distant-ambulance-fire-truck-sirens-germany.wav" volume 0.5 fadein
+                                                                                                     ^
+
+Ren'Py Version: Ren'Py 8.2.3.24061702
+Wed Oct 30 04:33:24 2024
